@@ -1,0 +1,6 @@
+Jan 16 2022 14:43:41
+{"Number":2,"Message":"rmdir(\/srv\/www\/wordpress-one\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/rbn7d6pgmf20): Text file busy","File":"\/srv\/www\/wordpress-one\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php","Line":72}
+
+Jan 16 2022 15:54:45
+{"Number":2,"Message":"rmdir(\/srv\/www\/wordpress-one\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/40fz2c52w5tn): Text file busy","File":"\/srv\/www\/wordpress-one\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php","Line":72}
+

@@ -1,0 +1,291 @@
+# Copyright (C) 2022 ScriptsTown
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: PressBook Grid Blogs 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/pressbook-grid-blogs\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-01-05T00:07:16+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: pressbook-grid-blogs\n"
+
+#. Theme Name of the theme
+msgid "PressBook Grid Blogs"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://scriptstown.com/wordpress-themes/pressbook-grid-blogs/"
+msgstr ""
+
+#. Description of the theme
+msgid "PressBook Grid Blogs is an elegant, lightweight, and perfect blog theme with a grid layout. The theme is fully responsive, translation-ready, and comes with many options for customizations, single and double sidebars, page templates, custom advertisement banners, multiple block widgets areas including sidebar and footer widgets, sticky sidebars that floats on scrolling, multi-level dropdown menus, social links, etc. It is a flexible, creative, and multipurpose theme that is suitable for blogging, portfolios, news agency, magazine, photography, graphics designers, artists, entertainment, gaming, movies, digital marketing, affiliates, IT firms, consulting, shopping, and corporate-related websites. Also, you can use this theme to create WooCommerce storefronts. The theme supports RTL languages, infinite scrolling with Jetpack, compatibility with page builders plugins like Elementor, WPBakery, Divi, etc. You can utilize block sections to put any custom content in the header or footer. This includes blocks and shortcodes to place sliders, services, testimonials, gallery, videos, forms, etc. The theme is also great for bloggers, freelancers, schools, academy, institutes, LMS, and educational websites. With clean typography, eye-catching color schemes, and minimal dependency, the theme offers a seamless user interface, high quality design as well as high performance, speed, and quick loading time. This theme is easy to set up and you can easily create a simple and minimalist blog. The theme is also highly accessible and comes with many advertisement spaces for affiliate programs such as Google AdSense that require an SEO optimized, fast, and modern theme."
+msgstr ""
+
+#. Author of the theme
+msgid "ScriptsTown"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://scriptstown.com/"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by IBM Plex Serif, translate this to 'off'. Do not translate into your own language.
+#: classes/class-pressbook-grid-blogs-editor.php:41
+msgctxt "IBM Plex Serif font (in the editor): on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Source Serif Pro, translate this to 'off'. Do not translate into your own language.
+#: classes/class-pressbook-grid-blogs-editor.php:47
+msgctxt "Source Serif Pro font (in the editor): on or off"
+msgid "on"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-options.php:90
+msgid "Post Card Shadow Effect"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-options.php:91
+msgid "Show shadow effect around the post card."
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-options.php:134
+msgid "Hide summary for all posts in a grid."
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-options.php:135
+msgid "Show summary only when there is no featured image."
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-options.php:136
+msgid "Show summary even when there is featured image."
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-options.php:138
+msgid "Post Card Summary"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-options.php:139
+msgid "Select when to show the post summary in the posts grid."
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-primarynavbar.php:44
+msgid "Primary Navbar Hover Background Color"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:38
+#: classes/class-pressbook-grid-blogs-related-posts.php:256
+msgid "Related Posts"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:39
+msgid "You can customize the related posts options in here."
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:65
+msgid "Enable Related Posts"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:90
+msgid "Related Posts Title"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:91
+msgid "You can change the heading of the related posts that is shown below the single post content."
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:117
+msgid "Categories"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:118
+msgid "Tags"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:120
+msgid "Related Posts Based On"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:121
+msgid "Select the source for related posts to display. Default: Categories"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:147
+msgid "Related Posts Count"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:148
+msgid "Set the number of related posts. Default: 6"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:174
+msgid "Related Posts Order"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:175
+msgid "Designates the ascending or descending order. Default: Latest First"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:201
+msgid "Related Posts Order By"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:202
+msgid "Sort retrieved related posts by parameter. Default: Random Order"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:227
+msgid "Show Taxonomy On Hover"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:228
+msgid "Whether to show the post category or tag on hover."
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:324
+msgid "All Posts"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:325
+msgid "Posts from Selected Categories"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:326
+msgid "Posts from Selected Tags"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:337
+msgctxt "Related Posts Count"
+msgid "1"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:338
+msgctxt "Related Posts Count"
+msgid "2"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:339
+msgctxt "Related Posts Count"
+msgid "3"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:340
+msgctxt "Related Posts Count"
+msgid "4"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:341
+msgctxt "Related Posts Count"
+msgid "5"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:342
+msgctxt "Related Posts Count"
+msgid "6"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:343
+msgctxt "Related Posts Count"
+msgid "7"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:344
+msgctxt "Related Posts Count"
+msgid "8"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:345
+msgctxt "Related Posts Count"
+msgid "9"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:346
+msgctxt "Related Posts Count"
+msgid "10"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:347
+msgctxt "Related Posts Count"
+msgid "11"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:348
+msgctxt "Related Posts Count"
+msgid "12"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:359
+msgid "Latest First"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:360
+msgid "Oldest First"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:371
+msgid "Random Order"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:372
+msgid "Post Date"
+msgstr ""
+
+#: classes/class-pressbook-grid-blogs-related-posts.php:373
+msgid "Last Modified Date"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by IBM Plex Serif, translate this to 'off'. Do not translate into your own language.
+#: classes/class-pressbook-grid-blogs-scripts.php:76
+msgctxt "IBM Plex Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Source Serif Pro, translate this to 'off'. Do not translate into your own language.
+#: classes/class-pressbook-grid-blogs-scripts.php:82
+msgctxt "Source Serif Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:82
+msgctxt "page title"
+msgid "PressBook Grid Blogs"
+msgstr ""
+
+#: functions.php:93
+msgctxt "menu title"
+msgid "PressBook Grid"
+msgstr ""
+
+#. translators: %s: search query
+#: index.php:38
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:28
+msgid "Previous Post:"
+msgstr ""
+
+#: single.php:30
+msgid "Next Post:"
+msgstr ""
+
+#. translators: %s: theme name with URL
+#: template-parts/footer/copyright-text.php:26
+msgctxt "footer credit"
+msgid "Powered by %s"
+msgstr ""
+
+#. translators: %s: theme name
+#: template-parts/footer/copyright-text.php:29
+msgctxt "footer credit"
+msgid "%s theme"
+msgstr ""
+
+#: template-parts/header/top-navbar.php:34
+msgid "Social Links"
+msgstr ""

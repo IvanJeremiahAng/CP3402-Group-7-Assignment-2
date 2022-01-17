@@ -1,0 +1,9 @@
+.block-editor-page .editor-styles-wrapper a {
+	color: #3369e5;
+}
+
+.block-editor-page .editor-styles-wrapper a:hover,
+.block-editor-page .editor-styles-wrapper a:focus,
+.block-editor-page .editor-styles-wrapper a:active {
+	color: #ff3955;
+}

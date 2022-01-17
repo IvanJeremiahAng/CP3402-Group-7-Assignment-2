@@ -1,0 +1,1 @@
+[WP STAGING Shutdown Function][E_WARNING][2022-01-16 14:51:28] rmdir(/srv/www/wordpress-one/public_html/cp3402traveller/): Text file busy - File: /srv/www/wordpress-one/public_html/wp-content/plugins/wp-staging/Framework/Filesystem/Filesystem.php Line: 389 Fatal?  Comes from WP STAGING? Yes
