@@ -34,3 +34,10 @@ OR
 8. Search and install the plugin: All-in-One WP Migration
 9. Activate plugin and click Import
 10. Import file from master branch
+
+# Theme
+The child theme we have made is based of the starter parent theme: Pressbook
+
+We have made changes regarding the aesthetics and structure of contents. We have removed unnecessary widgets such as the blog posts, archives, and comments. We relocated the searchbar and categories widgets to a more appropriate location, being the nav-bar. We have also added a logo, header and footer. Regarding the aesthetics changes, we changed the color and size of contents such that the background is more darker and the size of the contents are more appropriate to our client's product design.
+
+There is 1 form included on our website, being a feedback form. This form is accessable through the nav bar and the call to action located on the front page of our site. The Call to Action is placed near the center of our homepage so that users will immediately see it without needing to navigate throughout our site.
